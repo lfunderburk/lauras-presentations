@@ -1,4 +1,4 @@
-# License: Attribution 4.0 International (CC BY 4.0) 
+# License: CC Attribution 4.0 International (CC BY 4.0) 
 
 
 ## You are free to:
